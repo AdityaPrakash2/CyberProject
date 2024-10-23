@@ -1,7 +1,7 @@
 # CyberProject
 Cybersecurity Web App Project.
 
-# Summary of Development Environments
+# Development Environments
 
 ## Cursor
 Cursor is a productivity tool for developers that enhances collaboration and code quality through features like real-time collaboration, version control, and integration with popular tools. The Pro model offers advanced collaboration tools, increased storage, customizable workflows, priority support, and analytics.
